@@ -119,7 +119,7 @@ header {
 }
 
 .hero-img {
-    background-image: url(hero-image.png);
+    background-image: url(media/hero-image.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
